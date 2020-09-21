@@ -1,0 +1,31 @@
+.item{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    background-color: lightpink;
+}
+.images{
+    display: flex;
+ align-content: center;
+    background-color: lightpink;
+
+
+
+}
+.news{
+    display: flex;
+   justify-content: center;
+    background-color:lightpink;
+}
+.images2{
+    display : flex;
+   align-content: center;
+    background-color:lightpink;
+}
+h1{
+    background-color: lightskyblue;
+}
+.description{
+    
+    background-color: lightskyblue;
+}
